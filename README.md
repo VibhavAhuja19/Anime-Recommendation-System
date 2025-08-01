@@ -65,3 +65,20 @@ This project builds a recommendation engine leveraging user-anime interaction da
 - Containerized with Docker and pushed to Google Cloud Registry (GCR)  
 - Deployed via Kubernetes on GKE  
 - Jenkins pipeline automates build → test → deploy stages  
+
+
+## 🛠️ Setup Instructions
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/VibhavAhuja19/Anime-Recommendation-System.git
+cd Hotel-Rservation
+```
+
+## 2️⃣ Set Up the Environment
+```bash
+python3 -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+pip install -e .
+```
