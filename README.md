@@ -72,7 +72,7 @@ This project builds a recommendation engine leveraging user-anime interaction da
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/VibhavAhuja19/Anime-Recommendation-System.git
-cd Hotel-Rservation
+cd Anime-Recommendation-System
 ```
 
 ## 2️⃣ Set Up the Environment
