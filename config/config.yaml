@@ -1,0 +1,7 @@
+data_ingestion:
+  bucket_name: "mlops_animes"
+  bucket_file_names:
+    - "anime.csv"
+    - "anime_with_synopsis.csv"
+    - "animelist.csv"
+  service_account_key_path: "D:/Anime Recommendation System/keys/plated-ensign-467012-j9-8ea62926d5aa.json"

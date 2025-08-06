@@ -1,0 +1,6 @@
+env
+keys
+__pycache__
+
+MLOPS_PROJECT_2.egg-info
+logs/log_2025-08-01.log
